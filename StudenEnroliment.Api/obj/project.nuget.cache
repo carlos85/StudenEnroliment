@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5BHLI7GS7+A+qLTFhi0pq/BqRTMN/UmagGxK2KTOuNb+5AAcs+zEEtgnwj0lJ+s2akR3Fyz03J3hW8CqqvhN/g==",
+  "success": true,
+  "projectFilePath": "/Users/carlosAL/Grunstark/StudenEnroliment/StudenEnroliment.Api/StudenEnroliment.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlosAL/.nuget/packages/microsoft.aspnetcore.openapi/8.0.2/microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
+    "/Users/carlosAL/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/carlosAL/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/carlosAL/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/carlosAL/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/carlosAL/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/carlosAL/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
