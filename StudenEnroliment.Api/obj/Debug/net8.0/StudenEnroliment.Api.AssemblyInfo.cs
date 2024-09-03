@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudenEnroliment.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cf8179532c432e89f379dbc3b5c8ee304e8d205")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudenEnroliment.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudenEnroliment.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

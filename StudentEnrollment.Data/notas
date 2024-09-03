@@ -1,0 +1,9 @@
+para crear las migraciones
+dotnet ef migrations add InitialCreate --project StudentEnrollment.Data --startup-project StudenEnroliment.Api
+para cambios 
+dotnet ef migrations add SeededDefaultRolesandCourses --project StudentEnrollment.Data --startup-project StudenEnroliment.Api
+
+dotnet ef database update --project StudentEnrollment.Data --startup-project StudenEnroliment.Api
+
+
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Password_123#" -p 1433:1433 --name sql_server_container -d mcr.microsoft.com/mssql/server
